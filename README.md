@@ -7,4 +7,4 @@ Tudo desde o começo!
 
 Meu nome é Iara Kelly e atualmente curso o terceiro ano de jogos digitais no IFRN, Campus Ceará-mirim, tenho 17 anos e é isso :v
 
-![eu](foto.jpg)
+![eu](eu.jpg)
