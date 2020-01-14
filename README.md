@@ -2,7 +2,7 @@
 # Iara Kelly 
   
 <center>
-<img src = "Eu.jpg" width="300" height="300"
+<img src = "eu.jpg" width="300" height="300"
 Tudo desde o começo!
 
 
