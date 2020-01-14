@@ -13,5 +13,12 @@
 
 ## JOGO 1: Super Pam
 *DESCRIÇÃO:* 
-~DESCRIÇÃO:~
-#DESCRIÇÃO:#
+
+## JOGO 2: Horror Lab
+*DESCRIÇÃO:* 
+
+## JOGO 3: Away from home
+*DESCRIÇÃO:* 
+
+## JOGO 4: Aventura na floresta
+*DESCRIÇÃO:* 
