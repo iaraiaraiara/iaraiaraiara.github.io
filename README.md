@@ -1,8 +1,8 @@
 
 # Iara Kelly 
   
-<center>![eu](eu.jpg)
-  
+<center>
+<img src = "Eu.jpg" width="300" height="300"
 Tudo desde o começo!
 
 
