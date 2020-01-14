@@ -1,7 +1,7 @@
 
 # Iara Kelly 
   
-
+<center>
 ![eu](eu.jpg)
   
 Tudo desde o começo!
