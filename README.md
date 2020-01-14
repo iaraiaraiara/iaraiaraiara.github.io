@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu portifólio
 
 <center>
-![eu](eu.jpg)
+<img src="eu.jpg" width="300" heigth="300">
 </center>
 
 <center>
