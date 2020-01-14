@@ -1,5 +1,5 @@
 ## Bem-vindo ao meu portifólio
-### Game designer, Design e Programadora 
+### Game Designer, Designer, Animadora e Programadora 
 <center>
 <img src="eu.jpg" width="300" heigth="300">
 </center>
