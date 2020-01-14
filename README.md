@@ -12,4 +12,6 @@
 </center>
 
 ## JOGO 1: Super Pam
-*DESCRIÇÃO:* AAA
+*DESCRIÇÃO:* 
+~DESCRIÇÃO:~
+#DESCRIÇÃO:#
