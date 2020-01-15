@@ -12,13 +12,13 @@
 </center>
 
 ## JOGO 1: Super Pam
-*DESCRIÇÃO:* 
+*DESCRIÇÃO:* Super Pam é um jogo que buscar disserminar um pouco de conhcecimento a respeito dos absorventes de pano e outras alternativas melhores que os abssorvente descartáveis, já que eles geram uma enorme pegada ambiental.
 
 ## JOGO 2: Horror Lab
-*DESCRIÇÃO:* 
+*DESCRIÇÃO:* Em Horror Lab temos um jogo de suspense, em que Fred um "Exterminador", é chamado para ajudar um doutor que teve problemas em seu laboratório após algumas experiências sairem um pouco do controle.
 
-## JOGO 3: Away from home
-*DESCRIÇÃO:* 
+## JOGO 3: AREA 51: Away from home
+*DESCRIÇÃO:* Em "Away from Home" temos a história do alien Winona que acabou ficando preso na área 51 após sua nave cair na terra, agora ele precisa fugir e retornar para seu lar.
 
 ## JOGO 4: Aventura na floresta
-*DESCRIÇÃO:* 
+*DESCRIÇÃO:* Em "Aventuura na floresta" você precisa ajudar um garotinho que se perdeu no parque ambiental durante uma longa excurssão.
